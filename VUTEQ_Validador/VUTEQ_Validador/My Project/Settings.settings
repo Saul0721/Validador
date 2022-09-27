@@ -1,0 +1,38 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="glbcnSQL" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=ELMA_KINON\AIDCTECH;Initial Catalog=SICAD_VUTEQ;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=ELMA_KINON\AIDCTECH;Initial Catalog=SICAD_VUTEQ;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="glbLogFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Validador\Validador.log</Value>
+    </Setting>
+    <Setting Name="glbTiempo" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">30000</Value>
+    </Setting>
+    <Setting Name="glbNotificaciones" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">saul_iz93@hotmail.com</Value>
+    </Setting>
+    <Setting Name="glbCNInterna" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;data source=10.1.1.16;initial catalog=SICAD_VUTEQ;persist security info=True;user id=sa;password=.sa;MultipleActiveResultSets=True;App=EntityFramework&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">data source=10.1.1.16;initial catalog=SICAD_VUTEQ;persist security info=True;user id=sa;password=.sa;MultipleActiveResultSets=True;App=EntityFramework</Value>
+    </Setting>
+    <Setting Name="glbcnProd" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=ELMA_KINON\AIDCTECH;Initial Catalog=VUTEQ;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=ELMA_KINON\AIDCTECH;Initial Catalog=VUTEQ;Integrated Security=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

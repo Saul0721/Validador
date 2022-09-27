@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VUTEQ_Validador
+</name>
+</assembly>
+<members>
+<member name="P:VUTEQ_Validador.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:VUTEQ_Validador.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:VUTEQ_Validador.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:VUTEQ_Validador.Metodos.ObtenerDatos(System.String)">
+	<summary>
+ Metodo para realizar consultas, insert, updates y deletes con SQL.
+ </summary>
+	<param name="comando"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

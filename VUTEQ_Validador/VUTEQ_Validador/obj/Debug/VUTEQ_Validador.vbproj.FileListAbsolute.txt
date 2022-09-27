@@ -1,0 +1,15 @@
+C:\Proyectos AIDC\Vuteq\Validador\VUTEQ_Validador\VUTEQ_Validador\obj\Debug\VUTEQ_Validador.Form1.resources
+C:\Proyectos AIDC\Vuteq\Validador\VUTEQ_Validador\VUTEQ_Validador\obj\Debug\VUTEQ_Validador.Resources.resources
+C:\Proyectos AIDC\Vuteq\Validador\VUTEQ_Validador\VUTEQ_Validador\obj\Debug\VUTEQ_Validador.usrDespliega_Mensaje.resources
+C:\Proyectos AIDC\Vuteq\Validador\VUTEQ_Validador\VUTEQ_Validador\obj\Debug\VUTEQ_Validador.usrImportador.resources
+C:\Proyectos AIDC\Vuteq\Validador\VUTEQ_Validador\VUTEQ_Validador\obj\Debug\VUTEQ_Validador.vbproj.GenerateResource.Cache
+C:\Proyectos AIDC\Vuteq\Validador\VUTEQ_Validador\VUTEQ_Validador\bin\Debug\VUTEQ_Validador.exe.config
+C:\Proyectos AIDC\Vuteq\Validador\VUTEQ_Validador\VUTEQ_Validador\bin\Debug\VUTEQ_Validador.exe
+C:\Proyectos AIDC\Vuteq\Validador\VUTEQ_Validador\VUTEQ_Validador\bin\Debug\VUTEQ_Validador.pdb
+C:\Proyectos AIDC\Vuteq\Validador\VUTEQ_Validador\VUTEQ_Validador\bin\Debug\VUTEQ_Validador.xml
+C:\Proyectos AIDC\Vuteq\Validador\VUTEQ_Validador\VUTEQ_Validador\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Proyectos AIDC\Vuteq\Validador\VUTEQ_Validador\VUTEQ_Validador\bin\Debug\EASendMail.dll
+C:\Proyectos AIDC\Vuteq\Validador\VUTEQ_Validador\VUTEQ_Validador\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Proyectos AIDC\Vuteq\Validador\VUTEQ_Validador\VUTEQ_Validador\obj\Debug\VUTEQ_Validador.exe
+C:\Proyectos AIDC\Vuteq\Validador\VUTEQ_Validador\VUTEQ_Validador\obj\Debug\VUTEQ_Validador.xml
+C:\Proyectos AIDC\Vuteq\Validador\VUTEQ_Validador\VUTEQ_Validador\obj\Debug\VUTEQ_Validador.pdb
